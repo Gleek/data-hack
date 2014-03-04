@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Data-hack-12
 =================================================================================================================================
 
@@ -8,3 +9,9 @@ The User first have to register via Registration portal through AADHAR NUMBER.Th
 IVRS SEVRICE
 ===========================================================================================================================
 Acces the service through our Number : 011- 30715373
+=======
+data-hack
+=========
+
+Kisaan Seva suchna created in data-hack hackathon
+>>>>>>> a9ac20df8255e212c575654de75cd84a68c2b87c
