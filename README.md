@@ -8,6 +8,7 @@ IVRS SEVRICE
 ============
 Acces the service through our Number : 011- 30715373
 
+###Authors###
 
-Kisaan Seva suchna created in data-hack hackathon along with [Hammad](https://github.com/hammadhaleem), [Vipul](https://github.com/vipulnayyar), [Pankaj](https://github.com/vipulnayyar), [Akif](https://github.com/akifkhan)
+Kisaan Seva suchna created in data-hack hackathon by [Umar](https://github.com/Gleek),  [Hammad](https://github.com/hammadhaleem), [Vipul](https://github.com/vipulnayyar), [Pankaj](https://github.com/vipulnayyar), [Akif](https://github.com/akifkhan)
 
